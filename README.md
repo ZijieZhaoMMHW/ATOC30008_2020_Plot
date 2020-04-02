@@ -1,5 +1,6 @@
 Plotting in MATLAB
 ==============
+Please note that the data I provide here are just some examples, which may not be the correct answer.
 
 Drawing an example plot should follow codes below:
 
