@@ -32,6 +32,7 @@ set(gca,'fontsize',16);% Make larger fontsize
 ylim([-10 10]);% Change the range of y axis to make 0 central
 print -dpng -r600 Example_Figure.png % Print the figure
 ```
+![Image text](https://github.com/ZijieZhaoMMHW/ATOC30008_2020_Plot/blob/master/Example_Figure.png)
 
 
 
